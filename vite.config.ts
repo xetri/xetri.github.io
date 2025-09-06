@@ -9,4 +9,9 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  resolve: {
+    alias: {
+      "@": "/src"
+    }
+  }
 })
