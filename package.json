@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --minify --base ./",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7",
+    "vite-plugin-html-inject": "^1.1.2"
+  },
+  "dependencies": {
+    "modern-normalize": "^3.0.1",
+    "sass": "^1.93.0"
+  }
+}
