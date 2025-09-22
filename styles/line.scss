@@ -1,0 +1,9 @@
+@use "variables" as var;
+
+svg {
+    .slash {
+        stroke: var.$line-stroke;
+        stroke-width: 3;
+        stroke-dasharray: 6 3;
+    }
+}
