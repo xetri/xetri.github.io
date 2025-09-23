@@ -1,3 +1,5 @@
+@use "variables" as var;
+
 * {
     margin: 0;
     padding: 0;
@@ -17,4 +19,21 @@ body {
 
     margin-top: $diff;
     margin-bottom: $diff;
+}
+
+.card {
+    border: 0.18rem dashed var.$theme-color;
+    border-radius: 0.5rem;
+    box-shadow: 0.5rem 0.5rem 0 #1c1f2b;
+    background-color: var.$card-bg;
+}
+
+.card-border {
+    border: 0.18rem dashed var.$theme-color;
+    border-radius: 0.5rem;
+    box-shadow: 0.5rem 0.5rem 0 #1c1f2b;
+}
+
+.card-bg {
+    background-color: var.$card-bg;
 }
