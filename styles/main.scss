@@ -1,0 +1,41 @@
+@use "variables" as var;
+@use "about";
+@use "tech-stack";
+
+main {
+    $gap: 2rem;
+
+    margin: 0 var.$side-body-margin;
+    margin-top: $gap;
+    display: grid;
+    gap: $gap * 1.5;
+    // justify-content: center;
+    max-width: var.$body-max-width;
+    color: var.$text-color;
+
+    section > h1 {
+        font-family: "Roboto Mono", sans-serif;
+
+        &::before {
+            content: "# ";
+        }
+    }
+
+}
+
+.card {
+    border: 0.18rem dashed var.$theme-color;
+    border-radius: 0.5rem;
+    box-shadow: 0.5rem 0.5rem 0 #1c1f2b;
+    background-color: var.$card-bg;
+}
+
+.card-border {
+    border: 0.18rem dashed var.$theme-color;
+    border-radius: 0.5rem;
+    box-shadow: 0.5rem 0.5rem 0 #1c1f2b;
+}
+
+.card-bg {
+    background-color: var.$card-bg;
+}

@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    $diff: 2.4rem;
+
+    margin-top: $diff;
+    margin-bottom: $diff;
+}

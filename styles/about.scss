@@ -1,0 +1,28 @@
+@use "variables" as var;
+
+#about {
+    h1 {
+        margin-bottom: 1.5rem;
+    }
+
+    .info {
+        display: grid;
+        padding: 1.8rem 1.6rem;
+        gap: 1rem;
+
+        width: fit-content;
+        height: fit-content;
+        
+        font-family: "Roboto Mono", monospace;
+
+        p {
+            line-height: 1.6rem;
+
+            &::before {
+                content: "> ";
+            }
+
+        }
+
+    }
+}
