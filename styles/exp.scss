@@ -1,5 +1,56 @@
 @use "variables" as var;
 
 #experience {
+    #exp-wrapper {
+        display: grid;
+        gap: 1.6rem;
 
+
+        .exp {
+            display: flex;
+            flex-direction: column;
+            padding: 1.8rem 1.6rem;
+            gap: 1rem;
+
+            .skills {
+                display: flex;
+                gap: 0.45rem;
+
+                li {
+                    text-align: center;
+
+                    padding: 0.4rem 0.8rem;
+
+                    background-color: var.$theme-color;
+                    color: var.$sec-text-color;
+                    
+                    font-size: 0.75rem;
+
+                    border-radius: 0.5rem;
+                }
+            }
+        }
+
+        .work-wrapper {
+            display: grid;
+            gap: 0.25rem;
+        }
+
+        .company-wrapper {
+            display: grid;
+            gap: 0.65rem;
+
+            div {
+                display: flex;
+
+                .before-sep {
+                    &::before {
+                        content: "∘";
+                        margin: 0 0.4rem;
+                    }
+                }
+            }
+        }
+
+    }
 }

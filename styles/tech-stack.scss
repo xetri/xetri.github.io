@@ -23,8 +23,7 @@
         }
 
         ul {
-            display: grid;
-            grid-area: auto;
+            display: flex;
             gap: 0.45rem;
 
             li {
@@ -34,6 +33,8 @@
 
                 background-color: var.$theme-color;
                 color: var.$sec-text-color;
+
+                font-size: 0.85rem;
 
                 border-radius: 0.5rem;
             }

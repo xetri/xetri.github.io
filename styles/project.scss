@@ -24,6 +24,8 @@
                 background-color: #1a1a1a;
                 color: var.$sec-text-color;
 
+                font-size: 0.75rem;
+
                 border-radius: 0.5rem;
             }
         }
@@ -37,6 +39,8 @@
             button {
                 display: flex;
                 align-items: center;
+                gap: 0.35rem;
+                font-size: 0.8rem;
 
                 color: var.$sec-text-color;
                 background-color: var.$theme-color;

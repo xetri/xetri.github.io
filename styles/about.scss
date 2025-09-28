@@ -2,8 +2,9 @@
 
 #about {
     .info {
-        display: grid;
+        display: flex;
         flex-direction: column;
+        flex: 1 1 0;
 
         padding: 1.8rem 1.6rem;
         gap: 1rem;
