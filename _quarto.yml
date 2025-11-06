@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: Avinash Pokhrel - Software Developer
+  description: Portfolio website of Avinash Pokhrel
+  favicon: favicon.ico
+  search: false
+
+  site-url: avinashpokhrel.com.np
+  repo-url: https://github.com/xetri/xetri.github.io
+  repo-branch: master
+  repo-subdir: docs
+
+  other-links: 
+    - text: LinkedIn
+      icon: linkedin
+      href: https://linkedin.com/in/avinashpokhrel
+      target: _blank
+
+    - text: GitHub
+      icon: github
+      href: https://github.com/xetri
+      target: _blank
+
+    - text: X (Twitter)
+      icon: twitter
+      href: https://x.com/aveenassh
+      target: _blank
+
+    - text: Email
+      icon: envelope
+      href: mailto:Avinash%20Pokhrel%20<contact@avinashpokhrel.com.np>?subject=Hello%20Avinash&body=
+      target: _blank
+
+
+toc: true
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles/main.css
