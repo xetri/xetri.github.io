@@ -9,14 +9,14 @@ meaningfully to innovative projects and cultivate continuous growth within a dyn
 ## Work Experience
 
 ### Junior Python Developer | Pulse Inc.
-**April 2025 – Present**
+> **April 2025 – Present**
 
 - Develops and maintains Python-based applications, contributing to backend system enhancements.
 - Collaborates on feature development and participates in code reviews.
 - Adopts best practices for scalable and reliable software solutions.
 
 ### Full Stack Developer Intern | Digital Pathshala
-**March 2025 – May 2025**
+> **March 2025 – May 2025**
 
 - Gained hands-on experience in full-stack web development, working with front-end and back-end technologies.
 - Assisted in implementing new functionalities and UI improvements for various internal projects.
@@ -30,7 +30,6 @@ meaningfully to innovative projects and cultivate continuous growth within a dyn
 - [**Source Code**](https://github.com/xetri/chat-app)
 
 ### py-term - Command Line Terminal Application
-
 - Created a command-line interface application to enhance system interaction.
 - Technologies: Python.
 - [**Source Code**](https://github.com/xetri/py-term)
@@ -49,7 +48,7 @@ meaningfully to innovative projects and cultivate continuous growth within a dyn
 
 **Languages**: Python, JavaScript, TypeScript, C, C++, Go.
 
-**Frameworks/Libraries**: React, Node.js, Express.js, Flask, FastAP, Zustand, Socket.io.
+**Frameworks/Libraries**: React, Node.js, Express.js, Flask, FastAPI, Zustand, Socket.io.
 
 **Databases**: PostgreSQL, SQLite, Redis, Firebase
 
@@ -61,4 +60,4 @@ meaningfully to innovative projects and cultivate continuous growth within a dyn
 
 [**X (Twitter)**](https://x.com/aveenassh)
 
-[**Email**](mailto:git@avinashpokhrel.com.np)
+[**Email**](mailto:Avinash%20Pokhrel%20<git@avinashpokhrel.com.np>)
