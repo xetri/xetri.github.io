@@ -1,10 +1,8 @@
 # Avinash Pokhrel
 
-## Junior Backend Developer
+## Software Developer
 
-I am a highly motivated Junior Backend Developer with a solid foundation in Python, JavaScript, and various backend frameworks. I possess a proven ability to
-develop and maintain robust applications, complemented by hands-on experience in full-stack development and database management. I am eager to contribute
-meaningfully to innovative projects and cultivate continuous growth within a dynamic team.
+I am a Software Developer with expertise in Python, JavaScript, and modern frameworks. I specialize in developing scalable, efficient, and reliable applications, with a strong focus on clean architecture, performance, and continuous improvement through innovative solutions.
 
 ## Work Experience
 
@@ -46,13 +44,13 @@ meaningfully to innovative projects and cultivate continuous growth within a dyn
 
 ## Technical Skills
 
-**Languages**: Python, JavaScript, TypeScript, C, C++, Go.
+**Languages**: Python, JavaScript, TypeScript, C, C++, Go
 
-**Frameworks/Libraries**: React, Node.js, Express.js, Flask, FastAPI, Zustand, Socket.io.
+**Frameworks/Libraries**: Flask, FastAPI, React, Node.js, Express.js, Zustand, Socket.io
 
 **Databases**: PostgreSQL, SQLite, Redis, Firebase
 
-**Tools/Platforms**: Git, Docker, Netlify, Vercel, Postman, Linux.
+**Tools/Platforms**: Git, Docker, Netlify, Vercel, Postman, Linux
 
 ## Contact
 
