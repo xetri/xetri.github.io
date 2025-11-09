@@ -25,6 +25,6 @@
     "href": "index.html#technical-skills",
     "title": "\nAvinash Pokhrel\n",
     "section": "Technical Skills",
-    "text": "Technical Skills\nLanguages: Python, JavaScript, TypeScript, C, C++, Go.\nFrameworks/Libraries: Flask, FastAPI, React, Node.js, Express.js, Zustand, Socket.io.\nDatabases: PostgreSQL, SQLite, Redis, Firebase\nTools/Platforms: Git, Docker, Netlify, Vercel, Postman, Linux."
+    "text": "Technical Skills\nLanguages: Python, JavaScript, TypeScript, C, C++, Go\nFrameworks/Libraries: Flask, FastAPI, React, Node.js, Express.js, Zustand, Socket.io\nDatabases: PostgreSQL, SQLite, Redis, Firebase\nTools/Platforms: Git, Docker, Netlify, Vercel, Postman, Linux"
   }
 ]
