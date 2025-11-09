@@ -20,7 +20,7 @@ I am a Software Developer with expertise in Python, JavaScript, and modern frame
 - Assisted in implementing new functionalities and UI improvements for various internal projects.
 - Contributed to database design and API development within an agile environment.
 
-## Projects:
+## Projects
 
 ### ChatApp - Realtime Messaging Web Application
 - Built a real-time messaging application with instant communication features.
