@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nAvinash Pokhrel\n",
+    "section": "",
+    "text": "Avinash Pokhrel\nhi@avinashpokhrel.com.np\nI am a Software Developer with expertise in Python, JavaScript, and modern frameworks. I specialize in developing scalable, efficient, and reliable applications, with a strong focus on clean architecture, performance, and continuous improvement through innovative solutions."
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "\nAvinash Pokhrel\n",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nJunior Python Developer | Pulse Inc.\n\nApril 2025 – Present\n\n\nDevelops and maintains Python-based applications, contributing to backend system enhancements.\nCollaborates on feature development and participates in code reviews.\nAdopts best practices for scalable and reliable software solutions.\n\n\n\nFull Stack Developer Intern | Digital Pathshala\n\nMarch 2025 – May 2025\n\n\nGained hands-on experience in full-stack web development, working with front-end and back-end technologies.\nAssisted in implementing new functionalities and UI improvements for various internal projects.\nContributed to database design and API development within an agile environment."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "\nAvinash Pokhrel\n",
+    "section": "Projects",
+    "text": "Projects\n\nChatApp - Realtime Messaging Web Application\n\nBuilt a real-time messaging application with instant communication features.\nTechnologies: Node.js, Socket.io, SQLite.\nSource Code\n\n\n\npy-term - Command Line Terminal Application\n\nCreated a command-line interface application to enhance system interaction.\nTechnologies: Python.\nSource Code\n\n\n\ngClock - GUI Clock Application\n\nDesigned and implemented a graphical user interface clock application.\nTechnologies: C, SDL, Raylib.\nSource Code\n\n\n\narena - Memory Allocator for C\n\nDeveloped a custom memory allocator in C for optimized memory management.\nTechnologies: C.\nSource Code"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "\nAvinash Pokhrel\n",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nLanguages: Python, JavaScript, TypeScript, C, C++, Go.\nFrameworks/Libraries: Flask, FastAPI, React, Node.js, Express.js, Zustand, Socket.io.\nDatabases: PostgreSQL, SQLite, Redis, Firebase\nTools/Platforms: Git, Docker, Netlify, Vercel, Postman, Linux."
+  }
+]
