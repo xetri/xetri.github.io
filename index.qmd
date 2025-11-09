@@ -46,10 +46,10 @@ I am a Software Developer with expertise in Python, JavaScript, and modern frame
 
 ## Technical Skills
 
-**Languages**: Python, JavaScript, TypeScript, C, C++, Go.
+**Languages**: Python, JavaScript, TypeScript, C, C++, Go
 
-**Frameworks/Libraries**: Flask, FastAPI, React, Node.js, Express.js, Zustand, Socket.io.
+**Frameworks/Libraries**: Flask, FastAPI, React, Node.js, Express.js, Zustand, Socket.io
 
 **Databases**: PostgreSQL, SQLite, Redis, Firebase
 
-**Tools/Platforms**: Git, Docker, Netlify, Vercel, Postman, Linux.
+**Tools/Platforms**: Git, Docker, Netlify, Vercel, Postman, Linux
