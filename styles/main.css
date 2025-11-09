@@ -1,0 +1,30 @@
+span#email {
+    color: #333;
+    font-weight: bold;
+    opacity: 85%;
+}
+
+span#email::before {
+    content: ">";
+    font-weight: bolder;
+    opacity: 95%;
+    margin-right: 5px;
+}
+
+span#email::after {
+    content: "|";
+    color: gray;
+    background-color: gray;
+
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0%, 50% {
+        opacity: 0;
+    }
+    51%, 100% {
+        opacity: 100%;
+    }
+}
+

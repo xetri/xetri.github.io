@@ -1,0 +1,55 @@
+
+<h1>Avinash Pokhrel</h1>
+<span id="email">hi@avinashpokhrel.com.np </span>
+
+<h2>Software Developer</h2>
+
+I am a Software Developer with expertise in Python, JavaScript, and modern frameworks. I specialize in developing scalable, efficient, and reliable applications, with a strong focus on clean architecture, performance, and continuous improvement through innovative solutions.
+
+## Work Experience
+
+### Junior Python Developer | Pulse Inc.
+> **April 2025 – Present**
+
+- Develops and maintains Python-based applications, contributing to backend system enhancements.
+- Collaborates on feature development and participates in code reviews.
+- Adopts best practices for scalable and reliable software solutions.
+
+### Full Stack Developer Intern | Digital Pathshala
+> **March 2025 – May 2025**
+
+- Gained hands-on experience in full-stack web development, working with front-end and back-end technologies.
+- Assisted in implementing new functionalities and UI improvements for various internal projects.
+- Contributed to database design and API development within an agile environment.
+
+## Projects
+
+### ChatApp - Realtime Messaging Web Application
+- Built a real-time messaging application with instant communication features.
+- Technologies: Node.js, Socket.io, SQLite.
+- [**Source Code**](https://github.com/xetri/chat-app)
+
+### py-term - Command Line Terminal Application
+- Created a command-line interface application to enhance system interaction.
+- Technologies: Python.
+- [**Source Code**](https://github.com/xetri/py-term)
+
+### gClock - GUI Clock Application
+- Designed and implemented a graphical user interface clock application.
+- Technologies: C, SDL, Raylib.
+- [**Source Code**](https://github.com/xetri/gclock)
+
+### arena - Memory Allocator for C
+- Developed a custom memory allocator in C for optimized memory management.
+- Technologies: C.
+- [**Source Code**](https://github.com/xetri/arena)
+
+## Technical Skills
+
+**Languages**: Python, JavaScript, TypeScript, C, C++, Go.
+
+**Frameworks/Libraries**: Flask, FastAPI, React, Node.js, Express.js, Zustand, Socket.io.
+
+**Databases**: PostgreSQL, SQLite, Redis, Firebase
+
+**Tools/Platforms**: Git, Docker, Netlify, Vercel, Postman, Linux.
