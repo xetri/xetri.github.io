@@ -25,23 +25,22 @@ I am a Software Developer with expertise in Python, JavaScript, and modern frame
 ### ChatApp - Realtime Messaging Web Application
 - Built a real-time messaging application with instant communication features.
 - Technologies: Node.js, Socket.io, SQLite.
-- [**Source Code**](https://github.com/xetri/chat-app)
+- <a href="https://github.com/xetri/chat-app" target="_blank"><b>Source Code</b></a>
 
 ### py-term - Command Line Terminal Application
 - Created a command-line interface application to enhance system interaction.
 - Technologies: Python.
-- [**Source Code**](https://github.com/xetri/py-term)
+- <a href="https://github.com/xetri/py-term" target="_blank"><b>Source Code</b></a>
 
 ### gClock - GUI Clock Application
 - Designed and implemented a graphical user interface clock application.
 - Technologies: C, SDL, Raylib.
-- [**Source Code**](https://github.com/xetri/gclock)
+- <a href="https://github.com/xetri/gclock" target="_blank"><b>Source Code</b></a>
 
 ### arena - Memory Allocator for C
 - Developed a custom memory allocator in C for optimized memory management.
 - Technologies: C.
-- [**Source Code**](https://github.com/xetri/arena)
-
+- <a href="https://github.com/xetri/arena" target="_blank"><b>Source Code</b></a>
 ## Technical Skills
 
 **Languages**: Python, JavaScript, TypeScript, C, C++, Go
